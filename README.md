@@ -1,8 +1,35 @@
-# React + Vite
+# ⌛ Pomodoro: Effective Working Method
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Working with Pomodoro will increase your work efficiency. You should work on this project for 25 minutes and take a 5-minute break. You can adjust this as you wish if you wish.
 
-Currently, two official plugins are available:
+ ## 🧰 Used technologies
+  + [React](https://reactjs.org/)
+  + [Tailwind CSS](https://tailwindcss.com/)
+  + [React Icons](https://react-icons.github.io/react-icons/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📝 Features
+- [x] 25 minutes working
+- [x] 5 minutes break
+
+
+## 📦 Setup
+NodeJS and Git must be installed to run the Pomodoro study. But you use the link in the description to make the app experience.
+
+## 🚀 To make it work
+    
+```bash
+# Clone project
+git clone
+
+# Go to project directory
+cd pomodoro
+
+# Install dependencies
+npm install
+
+# Run the project
+npm run dev
+```
+
+## 📧 Contact
+If you have suggestions, comments or questions about the project, you can reach me [here](https://twitter.com/baaranadali).
