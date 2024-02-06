@@ -19,7 +19,7 @@ NodeJS and Git must be installed to run the Pomodoro study. But you use the link
     
 ```bash
 # Clone project
-git clone
+git clone https://github.com/baranadali/Pomodoro.git
 
 # Go to project directory
 cd pomodoro
